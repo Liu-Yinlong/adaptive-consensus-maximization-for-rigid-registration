@@ -2,7 +2,7 @@
 
 % tested on Matlab2018b
 
-*start with demo_test.m
+* start with demo_test.m
 
 ======
 
