@@ -1,4 +1,4 @@
-# adaptive-consensus-maximization-for-rigid-registration
+# adaptive-L2-Loss-for-rigid-registration
 
 % tested on Matlab2018b
 
